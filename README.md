@@ -35,3 +35,7 @@ Profit Analysis
 
 Why This Dashboard is Valuable:
 It enables precise customer-level analysis of sales and profitability trends, helping businesses identify high-performing customers, declining sales segments, and profit margin optimization opportunities
+
+Snap of Dashboard Page
+![image](https://github.com/user-attachments/assets/ec20dbe2-5f30-4cc7-816f-5e60de4c1761)
+
