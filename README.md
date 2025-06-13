@@ -34,3 +34,7 @@ It enables precise customer-level analysis of sales and profitability trends, he
 **Snap of Dashboard Page**
 ![image](https://github.com/user-attachments/assets/ec20dbe2-5f30-4cc7-816f-5e60de4c1761)
 
+**Image of Data Model**
+![image](https://github.com/user-attachments/assets/60e4decb-24b6-4a8d-9e24-e99bce37d82e)
+
+
