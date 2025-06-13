@@ -7,17 +7,12 @@ This Customer Deep Dive dashboard provides a detailed analysis of sales performa
 
 **Customer Selection**
 - A list of customer names with checkboxes to filter analysis.
-- Selected customers include 21st Ltd, Apollo Ltd, Apotheca Ltd, Avon Corp, and Burt's Corp.
 
 **Sales Time Frame Comparison**
 - A line chart visualizing cumulative sales over time alongside sales last year (LY) and sales two years ago (2Y ago).
 
 **Sales Breakdown Table**
 - Lists cities, product names, order dates, total sales, total profit, and profit margins.
-- Sample entries:
-  - Genova  Product 4  01-07-2015  $2,050.20 Sales  55% Profit Margin
-  - Dortmund  Product 11  02-07-2015  $35,275.50 Sales  34% Profit Margin
-  - London  Product 4  02-07-2015  $30,069.60 Sales  22% Profit Margin
 
 **Sales Trends by Product**
 - A bar chart showing total sales, sales LY, and sales 2Y ago for multiple products.
